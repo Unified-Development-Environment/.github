@@ -7,5 +7,4 @@ Furthermore, we extend this support to non-technical adopters by introducing Vis
 
 Together, this paradigm not only brings tremendous ease to the development process but also enables a unified way of programming microcontrollers, enhances modularity, and reduces the development overhead, expense, and the timeline of the project.
 
-[Notion Workspace For Memebers](https://www.notion.so/scientia72/Engineering-Project-bdae46d7bd3143a0858e0b9df356d530)
-< ---- >  [Synopsis](https://scientia72.notion.site/Project-Synopsis-a18ff4b38e0e40e5b9cfaf3dd44d1fb6)
+[Synopsis](https://scientia72.notion.site/Project-Synopsis-a18ff4b38e0e40e5b9cfaf3dd44d1fb6)
